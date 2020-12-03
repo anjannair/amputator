@@ -28,6 +28,8 @@ Which gives the following result,
 
 ## Installation
 
+`npm i amputator --save`
+
 ### Requirements
 
 * Node.Js installed
