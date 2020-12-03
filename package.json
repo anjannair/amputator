@@ -1,0 +1,31 @@
+{
+  "name": "amputator",
+  "version": "1.0.0",
+  "description": "An NPM package to find canonical links of websites",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjannair/amputator.git"
+  },
+  "funding": "https://ko-fi.com/anjannair",
+  "keywords": [
+    "amp",
+    "amputator",
+    "canonical"
+  ],
+  "author": "Anjan Nair",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/anjannair/amputator/issues"
+  },
+  "homepage": "https://github.com/anjannair/amputator#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "jsdom": "^16.4.0"
+  }
+}
