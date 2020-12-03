@@ -44,4 +44,4 @@ Add a pull request or raise an issue if you wish to contribute.
 
 ## License
 
-This project is licensed under MIT License, See [LICENSE](/LICENSE) for more information
+This project is licensed under GNU General Public License, See [LICENSE](/LICENSE) for more information
