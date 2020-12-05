@@ -38,7 +38,6 @@ Which gives the following result,
 
 * Axios
 * Cheerio
-* JsDOM
 
 ## Contact and Contributions
 

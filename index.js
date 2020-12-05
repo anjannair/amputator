@@ -1,6 +1,5 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const { JSDOM } = require("jsdom");
 
 module.exports = class Amp {
 
